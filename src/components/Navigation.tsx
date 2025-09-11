@@ -4,7 +4,7 @@ const Navigation: React.FC = () => {
   return (
     <nav className="relative self-stretch flex w-full gap-5 text-white font-normal flex-wrap justify-between max-md:max-w-full">
       <div className="text-[28px] tracking-[0.28px] self-stretch">
-        Panto
+        FurniCo
       </div>
       <div className="flex items-stretch gap-[40px_60px] text-lg max-md:max-w-full">
         <div className="flex items-center gap-2 whitespace-nowrap justify-center">
