@@ -7,16 +7,7 @@ const Navigation: React.FC = () => {
         FurniCo
       </div>
       <div className="flex items-stretch gap-[40px_60px] text-lg max-md:max-w-full">
-        <div className="flex items-center gap-2 whitespace-nowrap justify-center">
-          <div className="self-stretch my-auto">
-            Furniture
-          </div>
-          <img
-            src="https://api.builder.io/api/v1/image/assets/7014096b18dd4e9abcb3939bccbecaad/c38ce51343e78b2cdd750045e1f2182870e3a16d?placeholderIfAbsent=true"
-            className="aspect-[1] object-contain w-[18px] self-stretch shrink-0 my-auto"
-            alt="Dropdown arrow"
-          />
-        </div>
+        <div>Furniture</div>
         <div>Shop</div>
         <div>About Us</div>
         <div>Contact</div>

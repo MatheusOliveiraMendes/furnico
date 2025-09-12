@@ -5,6 +5,7 @@ import Products from '../components/Products';
 import Experience from '../components/Experience';
 import Materials from '../components/Materials';
 import Testimonials from '../components/Testimonials';
+import Footer from '../components/Footer';
 
 const Index: React.FC = () => {
   return (
@@ -15,6 +16,7 @@ const Index: React.FC = () => {
       <Experience />
       <Materials />
       <Testimonials />
+      <Footer />
     </main>
   );
 };
