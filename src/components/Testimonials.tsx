@@ -59,11 +59,6 @@ const Testimonials: React.FC = () => {
           </div>
         </div>
       </div>
-      <img
-        src="https://api.builder.io/api/v1/image/assets/7014096b18dd4e9abcb3939bccbecaad/9a9753aab357d91b76c2c4415425d7d43e6dc4b2?placeholderIfAbsent=true"
-        className="aspect-[3.12] object-contain w-full mt-[245px] max-md:max-w-full max-md:mt-10"
-        alt="Footer decoration"
-      />
     </section>
   );
 };
