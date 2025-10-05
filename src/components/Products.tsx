@@ -11,14 +11,7 @@ const Products: React.FC = () => {
         className="aspect-[2.54] object-contain w-full max-w-[1248px] mt-20 rounded-[0px_0px_0px_0px] max-md:max-w-full max-md:mt-10"
         alt="Best selling products showcase"
       />
-      <div className="flex w-[123px] max-w-full items-stretch gap-3 text-[rgba(229,132,17,1)] leading-[33px] mt-[60px] max-md:mt-10">
-        <span className="grow">View All</span>
-        <img
-          src="https://api.builder.io/api/v1/image/assets/7014096b18dd4e9abcb3939bccbecaad/4990a34d07abc7a58cc2112f9d5bf270a3d72c3e?placeholderIfAbsent=true"
-          className="aspect-[2] object-contain w-12 shrink-0 my-auto"
-          alt="Arrow"
-        />
-      </div>
+    
     </section>
   );
 };
